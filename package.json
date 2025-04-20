@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-sajjad",
+  "version": "1.0.0",
+  "main": "eslint.config.mjs",
+  "type": "module",
+  "exports": {
+    "default": "./eslint.config.mjs"
+  },
+  "keywords": [],
+  "author": "Sajjad",
+  "license": "ISC",
+  "description": "Custom reusable ESLint flat config by Sajjad"
+}
